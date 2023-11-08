@@ -24,6 +24,8 @@
   --gap-sm: 0.5rem;
   --gap-md: 0.75rem;
   --gap-lg: 2rem;
+
+  --branding-color: #458F4E;
 }
 
 :root {
