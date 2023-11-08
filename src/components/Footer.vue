@@ -16,34 +16,28 @@
         <div class="footer-links">
             <div>
                 <h1 class="title">Resources</h1>
-                <a href="https://github.terrarium.earth" target="_blank" rel="noopener">GitHub</a>
-                <a href="https://modrinth.terrarium.earth" target="_blank" rel="noopener">Modrinth</a>
-                <a href="https://blog.terrarium.earth" target="_blank" rel="noopener">Blog</a>
                 <a href="https://docs.terrarium.earth" target="_blank" rel="noopener">Documentation</a>
+                <a href="https://mods.terrarium.earth" target="_blank" rel="noopener">Modrinth</a>
+                <a href="https://github.terrarium.earth" target="_blank" rel="noopener">GitHub</a>
+                <a href="https://blog.terrarium.earth" target="_blank" rel="noopener">Blog</a>
             </div>
             <div>
                 <h1 class="title">Socials</h1>
+                <a href="https://instagram.terrarium.earth" target="_blank" rel="noopener">Instagram</a>
+                <a href="https://youtube.terrarium.earth" target="_blank" rel="noopener">YouTube</a>
                 <a href="https://discord.terrarium.earth" target="_blank" rel="noopener">Discord</a>
                 <a href="https://twitter.terrarium.earth" target="_blank" rel="noopener">Twitter</a>
-                <a href="https://youtube.terrarium.earth" target="_blank" rel="noopener">YouTube</a>
-                <a href="https://instagram.terrarium.earth" target="_blank" rel="noopener">Instagram</a>
             </div>
             <div>
                 <h1 class="title">Contact</h1>
-                <a href="mailto:adrian@terrarium.earth">Email</a>
-                <a href="https://discord.com/users/218557488142876683" target="_blank" rel="noopener">Discord</a>
-                <a href="https://twitter.terrarium.earth" target="_blank" rel="noopener">Twitter</a>
+                <a href="https://discord.com/users/218557488142876683" target="_blank" rel="noopener">Discord DM</a>
                 <a href="https://github.terrarium.earth" target="_blank" rel="noopener">GitHub</a>
+                <a href="https://twitter.terrarium.earth" target="_blank" rel="noopener">Twitter</a>
+                <a href="mailto:adrian@terrarium.earth">Email</a>
             </div>
         </div>
     </div>
 </template>
-
-<script>
-export default {
-    name: "Footer"
-}
-</script>
 
 <style scoped>
 .logo {
